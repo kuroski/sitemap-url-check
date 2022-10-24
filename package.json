@@ -24,7 +24,7 @@
   },
   "main": "./dist/index.cjs",
   "bin": {
-    "sitemap-url-check": "dist/cli.cjs"
+    "sitemap-url-check": "dist/cli.mjs"
   },
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
